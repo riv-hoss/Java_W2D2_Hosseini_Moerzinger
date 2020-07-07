@@ -1,3 +1,5 @@
+package Florian;
+
 public class F_A_Vodka extends F_Abstract{
 
     String name;
@@ -10,8 +12,6 @@ public class F_A_Vodka extends F_Abstract{
         vol = v;
         color = c;
     }
-
-
 
 
     @Override

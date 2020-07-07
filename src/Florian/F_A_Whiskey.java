@@ -1,9 +1,12 @@
+package Florian;
+
 public class F_A_Whiskey extends F_Abstract{
 
 
     String name;
     int vol;
     String color;
+
 
 
     F_A_Whiskey(String n, int v, String c){

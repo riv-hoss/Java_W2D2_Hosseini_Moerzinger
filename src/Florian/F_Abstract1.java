@@ -1,8 +1,8 @@
- abstract class F_Abstract {
+package Florian;
 
+abstract class F_Abstract {
 
     abstract public void drink();
-
 
 
         public void drinks(){

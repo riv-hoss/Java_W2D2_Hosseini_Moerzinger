@@ -1,3 +1,5 @@
+package Florian;
+
 public class F_A_Outcome {
 
     public static void main(String[] args) {
