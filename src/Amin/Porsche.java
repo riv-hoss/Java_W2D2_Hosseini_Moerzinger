@@ -17,7 +17,6 @@ public class Porsche extends A1_Car{
         double cons = carConsump(motorCC, weightKG);
         System.out.printf("Porsche %s has fuel consumption of %.2f.\n", modelName, cons);
     }
-
     @Override
     public void carMake(String name) {
         System.out.printf("It was made by %s.\n", name);
